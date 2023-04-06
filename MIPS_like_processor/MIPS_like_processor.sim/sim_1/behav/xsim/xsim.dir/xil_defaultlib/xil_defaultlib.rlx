@@ -1,0 +1,14 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/kunal/Inst_fetch/Inst_fetch.srcs/sources_1/new/Inst_fetch.v,1676002052,verilog,,C:/Users/kunal/MIPS_like_processor/MIPS_like_processor.srcs/sources_1/new/control_unit.v,,Inst_fetch,,,,,,,,
+C:/Users/kunal/L1.1/L1.1.srcs/sources_1/new/Inst_Mem.v,1677190365,verilog,,C:/Users/kunal/Inst_fetch/Inst_fetch.srcs/sources_1/new/Inst_fetch.v,,Inst_Mem,,,,,,,,
+C:/Users/kunal/L2_Reg_file/L2_Reg_file.srcs/sources_1/new/reg_file.v,1677190626,verilog,,C:/Users/kunal/MIPS_like_processor/MIPS_like_processor.srcs/sources_1/new/sign_extend.v,,reg_file,,,,,,,,
+C:/Users/kunal/MIPS_like_processor/MIPS_like_processor.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/kunal/MIPS_like_processor/MIPS_like_processor.srcs/sim_1/new/tb_MIPS_like_processor.v,1677235227,verilog,,,,tb_MIPS_like_processor,,,,,,,,
+C:/Users/kunal/MIPS_like_processor/MIPS_like_processor.srcs/sources_1/new/ALU_6op.v,1677169034,verilog,,C:/Users/kunal/L1.1/L1.1.srcs/sources_1/new/Inst_Mem.v,,alu_6op,,,,,,,,
+C:/Users/kunal/MIPS_like_processor/MIPS_like_processor.srcs/sources_1/new/control_unit.v,1677187180,verilog,,C:/Users/kunal/MIPS_like_processor/MIPS_like_processor.srcs/sources_1/new/datapath.v,,control_unit,,,,,,,,
+C:/Users/kunal/MIPS_like_processor/MIPS_like_processor.srcs/sources_1/new/datapath.v,1677228339,verilog,,C:/Users/kunal/L2_Reg_file/L2_Reg_file.srcs/sources_1/new/reg_file.v,,datapath,,,,,,,,
+C:/Users/kunal/MIPS_like_processor/MIPS_like_processor.srcs/sources_1/new/sign_extend.v,1677228518,verilog,,C:/Users/kunal/MIPS_like_processor/MIPS_like_processor.srcs/sources_1/new/sign_extend_21bit.v,,sign_extend,,,,,,,,
+C:/Users/kunal/MIPS_like_processor/MIPS_like_processor.srcs/sources_1/new/sign_extend_21bit.v,1677228313,verilog,,C:/Users/kunal/MIPS_like_processor/MIPS_like_processor.srcs/sim_1/new/tb_MIPS_like_processor.v,,sign_extend_21bit,,,,,,,,
